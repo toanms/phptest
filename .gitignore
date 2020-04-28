@@ -1,0 +1,5 @@
+
+###> symfony/web-server-bundle ###
+/.web-server-pid
+/vendor
+###< symfony/web-server-bundle ###
